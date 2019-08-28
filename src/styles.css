@@ -1,1 +1,57 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    background-color: rgb(20, 42, 56);
+
+}
+
+.my-container{
+    width: 100vw;
+    height: 100vh;
+    
+  }
+
+.navbar {
+    background-color: rgb(192, 188, 188);
+
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #15bdff;
+    text-decoration: none;
+}
+
+a:not([href]):not([tabindex]) {
+    color: white;
+}
+
+.navbar-brand {
+    font-family: 'Rochester', cursive;
+    font-size: 2rem;
+    text-decoration: none;
+    
+}
+
+#logo {
+    width: 10rem;
+    margin-left: 0!important;
+}
+
+p {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+}
+
+
+
