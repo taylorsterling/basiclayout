@@ -1,6 +1,6 @@
 {
   "name": "basiclayout",
-  "version": "0.0.0",
+  "version": "10.16.3",
   "scripts": {
     "heroku-postbuild": "ng build --prod",
     "ng": "ng",
