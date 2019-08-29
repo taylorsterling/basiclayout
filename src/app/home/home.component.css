@@ -1,0 +1,17 @@
+.jumbotron-fluid {
+    background-image: url("src/assets/media/jtimg.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+h1 {
+color: white;
+text-align: center;
+
+}
+
+#emote {
+    width: 12rem;
+
+}
