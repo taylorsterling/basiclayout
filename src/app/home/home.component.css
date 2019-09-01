@@ -18,14 +18,24 @@
 }
 
 h1 {
-color: white;
-text-align: center;
+    font-family: Cinzel Decorative;
+    font-size: 7vw !important;
+    color: white;
+    text-align: center;
 
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-family: 'Raleway';
+    font-size: 4vw !important;
 }
 
 #emote {
     width: 12rem;
     border-radius: 50% !important;
+    margin-bottom: 3%;
 }
 
 #clips {

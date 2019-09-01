@@ -46,25 +46,16 @@ a:not([href]):not([tabindex]) {
     
 }
 
-h1 {
-    font-family: Cinzel Decorative;
-    font-size: 6.4vw !important;
-
-}
-
-p {
-    color: white;
-    text-align: center;
-    font-family: 'Gayathri';
-    font-size: 3.4vw !important;
-}
-
 footer {
     background-color: #343a40;
     border-top-style: solid;
     border-top-width: 1px;
     border-top-color: aqua;
-    padding: 2rem;
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    font-size: 2vw;
 
 }
 
